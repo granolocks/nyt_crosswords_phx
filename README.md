@@ -1,7 +1,7 @@
 # Nyt
 
 Load the data which has been excluded from git. you can check it out
-[https://github.com/doshea/nyt_crossword](https://github.com/doshea/nyt_crossword)
+[https://github.com/doshea/nyt_crosswords](https://github.com/doshea/nyt_crosswords)
 or run:
 
 ```
